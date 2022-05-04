@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1992_쿼드트리", "1992_�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1780_종이의 개수", "1780_종이의 개수\1780_종이의 개수.vcxproj", "{6A72FF0A-492B-40F5-B851-ED2F4D296FA0}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1629_곱셈", "1629_곱셈\1629_곱셈.vcxproj", "{054BC4AF-27D5-4742-A645-2CD56F2171AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{6A72FF0A-492B-40F5-B851-ED2F4D296FA0}.Release|x64.Build.0 = Release|x64
 		{6A72FF0A-492B-40F5-B851-ED2F4D296FA0}.Release|x86.ActiveCfg = Release|Win32
 		{6A72FF0A-492B-40F5-B851-ED2F4D296FA0}.Release|x86.Build.0 = Release|Win32
+		{054BC4AF-27D5-4742-A645-2CD56F2171AD}.Debug|x64.ActiveCfg = Debug|x64
+		{054BC4AF-27D5-4742-A645-2CD56F2171AD}.Debug|x64.Build.0 = Debug|x64
+		{054BC4AF-27D5-4742-A645-2CD56F2171AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{054BC4AF-27D5-4742-A645-2CD56F2171AD}.Debug|x86.Build.0 = Debug|Win32
+		{054BC4AF-27D5-4742-A645-2CD56F2171AD}.Release|x64.ActiveCfg = Release|x64
+		{054BC4AF-27D5-4742-A645-2CD56F2171AD}.Release|x64.Build.0 = Release|x64
+		{054BC4AF-27D5-4742-A645-2CD56F2171AD}.Release|x86.ActiveCfg = Release|Win32
+		{054BC4AF-27D5-4742-A645-2CD56F2171AD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
