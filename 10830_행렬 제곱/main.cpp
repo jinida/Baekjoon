@@ -20,7 +20,7 @@ int** dc(int** mat, long long int n, int size)
 			a = dc(mat, n/2, size);
 			b = a;
 		}
-
+		
 		int** temp = new int* [size];
 		int sum = 0;
 		for (int i = 0; i < size; ++i)
@@ -37,15 +37,20 @@ int** dc(int** mat, long long int n, int size)
 			}
 		}
 
-		for (int i = 0; i < size; ++i)
+		if (a != mat && a != b)
 		{
-			delete * (a + i);
-			delete * (b + i);
+			for (int i = 0; i < size; ++i)
+				delete a[i];
+			delete[] a;
 		}
 
-		delete[] a;
-		delete[] b;
-
+		if (b != mat)
+		{
+			for (int i = 0; i < size; ++i)
+				delete b[i];
+			delete[] b;
+		}
+		
 		return temp;
 	}
 }
@@ -68,6 +73,7 @@ int main()
 		for (int j = 0; j < n; ++j)
 		{
 			cin >> a[i][j];
+			a[i][j] = a[i][j] % 1000;
 		}
 	}
 
