@@ -19,6 +19,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2740_행렬곱셈", "2740_�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10830_행렬 제곱", "10830_행렬 제곱\10830_행렬 제곱.vcxproj", "{B2700954-F154-4EBD-A53C-76382DE56946}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "11444_피보나치 수 6", "11444_피보나치 수 6\11444_피보나치 수 6.vcxproj", "{EE0B70BE-92A4-4CBA-848F-5E8E5A29549A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -91,6 +93,14 @@ Global
 		{B2700954-F154-4EBD-A53C-76382DE56946}.Release|x64.Build.0 = Release|x64
 		{B2700954-F154-4EBD-A53C-76382DE56946}.Release|x86.ActiveCfg = Release|Win32
 		{B2700954-F154-4EBD-A53C-76382DE56946}.Release|x86.Build.0 = Release|Win32
+		{EE0B70BE-92A4-4CBA-848F-5E8E5A29549A}.Debug|x64.ActiveCfg = Debug|x64
+		{EE0B70BE-92A4-4CBA-848F-5E8E5A29549A}.Debug|x64.Build.0 = Debug|x64
+		{EE0B70BE-92A4-4CBA-848F-5E8E5A29549A}.Debug|x86.ActiveCfg = Debug|Win32
+		{EE0B70BE-92A4-4CBA-848F-5E8E5A29549A}.Debug|x86.Build.0 = Debug|Win32
+		{EE0B70BE-92A4-4CBA-848F-5E8E5A29549A}.Release|x64.ActiveCfg = Release|x64
+		{EE0B70BE-92A4-4CBA-848F-5E8E5A29549A}.Release|x64.Build.0 = Release|x64
+		{EE0B70BE-92A4-4CBA-848F-5E8E5A29549A}.Release|x86.ActiveCfg = Release|Win32
+		{EE0B70BE-92A4-4CBA-848F-5E8E5A29549A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
