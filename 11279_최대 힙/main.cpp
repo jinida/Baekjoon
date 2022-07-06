@@ -40,7 +40,6 @@ void insert(std::deque<int> &v, int val)
     }
     else
         v.insert(v.begin() + mid, val);
-
 }
 
 int main()
