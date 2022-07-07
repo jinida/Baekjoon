@@ -7,7 +7,28 @@ using namespace std;
 
 void find(priority_queue<int>& pq, vector<int>& val)
 {
-
+    if (pq.size() == 0)
+        return;
+    int start = 0, end = pq.size() - 1;
+    int mid;
+    pq[1];
+    while (start <= end)
+    {
+        mid = (start + end) / 2;
+        if (pq[mid] < val)
+        {
+            start = mid + 1;
+        }
+        else if (v[mid] > val)
+        {
+            end = mid - 1;
+        }
+        else
+        {
+            v.insert(v.begin() + mid, val);
+            return;
+        }
+    }
 }
 
 priority_queue<int>& pq_split(string input, char delimiter) {
