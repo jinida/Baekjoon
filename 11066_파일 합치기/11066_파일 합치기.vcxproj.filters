@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="hustar_이진 탐색 6.cpp">
+    <ClCompile Include="11066_파일 합치기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
