@@ -16,8 +16,6 @@ std::vector<int> vector_split(std::string input, char delimiter) {
     return answer;
 }
 
-
-
 int main()
 {
     int tc;

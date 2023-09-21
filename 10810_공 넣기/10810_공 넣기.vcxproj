@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{d25bc3bb-5893-4f90-baa3-420a4197895a}</ProjectGuid>
-    <RootNamespace>최대합부분연속수열2</RootNamespace>
+    <ProjectGuid>{a94b83d9-42dd-4291-b074-2ff17474c34e}</ProjectGuid>
+    <RootNamespace>My10810공넣기</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
