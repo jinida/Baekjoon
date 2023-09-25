@@ -89,6 +89,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "10798_세로읽기", "10798
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2563_색종이", "2563_색종이\2563_색종이.vcxproj", "{809EC501-12C7-4CD1-B397-EE7154E4680A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2745_진법 변환", "2745_진법 변환\2745_진법 변환.vcxproj", "{BEE06838-A861-44FB-81B2-0F47608603B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -441,6 +443,14 @@ Global
 		{809EC501-12C7-4CD1-B397-EE7154E4680A}.Release|x64.Build.0 = Release|x64
 		{809EC501-12C7-4CD1-B397-EE7154E4680A}.Release|x86.ActiveCfg = Release|Win32
 		{809EC501-12C7-4CD1-B397-EE7154E4680A}.Release|x86.Build.0 = Release|Win32
+		{BEE06838-A861-44FB-81B2-0F47608603B0}.Debug|x64.ActiveCfg = Debug|x64
+		{BEE06838-A861-44FB-81B2-0F47608603B0}.Debug|x64.Build.0 = Debug|x64
+		{BEE06838-A861-44FB-81B2-0F47608603B0}.Debug|x86.ActiveCfg = Debug|Win32
+		{BEE06838-A861-44FB-81B2-0F47608603B0}.Debug|x86.Build.0 = Debug|Win32
+		{BEE06838-A861-44FB-81B2-0F47608603B0}.Release|x64.ActiveCfg = Release|x64
+		{BEE06838-A861-44FB-81B2-0F47608603B0}.Release|x64.Build.0 = Release|x64
+		{BEE06838-A861-44FB-81B2-0F47608603B0}.Release|x86.ActiveCfg = Release|Win32
+		{BEE06838-A861-44FB-81B2-0F47608603B0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
