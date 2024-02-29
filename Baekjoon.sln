@@ -127,6 +127,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2346_풍선 터뜨리기", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24511_queuestack", "24511_queuestack\24511_queuestack.vcxproj", "{B12CE8EA-E2EB-4DC0-B4A7-FECCC97065DE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24416_알고리즘 수업 - 피보나치 수1", "24416_알고리즘 수업 - 피보나치 수1\24416_알고리즘 수업 - 피보나치 수1.vcxproj", "{29B8BAAC-1D5A-4AC7-8D23-1F9FF9FB1620}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -631,6 +633,14 @@ Global
 		{B12CE8EA-E2EB-4DC0-B4A7-FECCC97065DE}.Release|x64.Build.0 = Release|x64
 		{B12CE8EA-E2EB-4DC0-B4A7-FECCC97065DE}.Release|x86.ActiveCfg = Release|Win32
 		{B12CE8EA-E2EB-4DC0-B4A7-FECCC97065DE}.Release|x86.Build.0 = Release|Win32
+		{29B8BAAC-1D5A-4AC7-8D23-1F9FF9FB1620}.Debug|x64.ActiveCfg = Debug|x64
+		{29B8BAAC-1D5A-4AC7-8D23-1F9FF9FB1620}.Debug|x64.Build.0 = Debug|x64
+		{29B8BAAC-1D5A-4AC7-8D23-1F9FF9FB1620}.Debug|x86.ActiveCfg = Debug|Win32
+		{29B8BAAC-1D5A-4AC7-8D23-1F9FF9FB1620}.Debug|x86.Build.0 = Debug|Win32
+		{29B8BAAC-1D5A-4AC7-8D23-1F9FF9FB1620}.Release|x64.ActiveCfg = Release|x64
+		{29B8BAAC-1D5A-4AC7-8D23-1F9FF9FB1620}.Release|x64.Build.0 = Release|x64
+		{29B8BAAC-1D5A-4AC7-8D23-1F9FF9FB1620}.Release|x86.ActiveCfg = Release|Win32
+		{29B8BAAC-1D5A-4AC7-8D23-1F9FF9FB1620}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
